@@ -30,3 +30,4 @@ b) Diverse heterogeneous data generation which is suitable for battery capacity 
 
 
 # Citation 
+https://github.com/cure-lab/SCINet
