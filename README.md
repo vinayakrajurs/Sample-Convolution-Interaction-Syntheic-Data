@@ -4,11 +4,11 @@ In this work we try to provide feasible solutions to solve
 limited data situations using an Sample Convolution and
 Interactive Learning based approach. This work provides the
 following contributions:
-• Creation of high-quality diverse synthetic battery param-
+1.) Creation of high-quality diverse synthetic battery param-
 eter datasets
-• This produced synthetic data should ensure adequate
+2.) This produced synthetic data should ensure adequate
 heterogeneity
-• For the first time, a Sample Convolution and Interactive
+3.) For the first time, a Sample Convolution and Interactive
 Learning based approach is introduced to achieve accu-
 rate battery parameter approximation.
 
