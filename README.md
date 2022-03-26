@@ -9,8 +9,7 @@ eter datasets
 heterogeneity
 
 3.) For the first time, a Sample Convolution and Interactive
-Learning based approach is introduced to achieve accu-
-rate battery parameter approximation.
+Learning based approach is introduced to achieve accurate battery parameter approximation.
 
 # Procedure to run this code- 
 
