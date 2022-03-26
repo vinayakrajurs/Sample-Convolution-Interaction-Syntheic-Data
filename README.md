@@ -1,11 +1,16 @@
 # SCINet-Battery-Dataset
 
-We use ............. to generate synthetic battery datasets. This procedure is very beneficial during data scarce scenarios wherein researchers have access to finite amount of data. The leading contributions of this
-This work includes:
-
-1.)
-
-2.)
+In this work we try to provide feasible solutions to solve
+limited data situations using an Sample Convolution and
+Interactive Learning based approach. This work provides the
+following contributions:
+• Creation of high-quality diverse synthetic battery param-
+eter datasets
+• This produced synthetic data should ensure adequate
+heterogeneity
+• For the first time, a Sample Convolution and Interactive
+Learning based approach is introduced to achieve accu-
+rate battery parameter approximation.
 
 # Procedure to run this code- 
 
