@@ -25,9 +25,11 @@ Learning based approach is introduced to achieve accurate battery parameter appr
 
 # Citation 
 We appreciate the following github repos a lot for their valuable code base and datasets:
-https://github.com/cure-lab/SCINet
 
-https://doi.org/10.48550/arXiv.2106.09305
+https://github.com/cure-lab/SCINet
+Liu, M.H.; Zeng, A.L.; Lai, Q.X. “Time series is a special sequence:
+Forecasting with sample convolution and interaction”. arXiv 2021,
+arXiv:2106.09305.
 
 Diao, W., Saxena, S., Pecht, M. Accelerated Cycle Life Testing and Capacity Degradation Modeling of LiCoO2 -graphite Cells. J. Power Sources 2019, 435, 226830.
 
