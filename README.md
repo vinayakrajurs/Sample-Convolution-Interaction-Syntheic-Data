@@ -24,6 +24,11 @@ Learning based approach is introduced to achieve accurate battery parameter appr
 
 
 # Citation 
+We appreciate the following github repos a lot for their valuable code base and datasets:
 https://github.com/cure-lab/SCINet
 
 https://doi.org/10.48550/arXiv.2106.09305
+
+Diao, W., Saxena, S., Pecht, M. Accelerated Cycle Life Testing and Capacity Degradation Modeling of LiCoO2 -graphite Cells. J. Power Sources 2019, 435, 226830.
+
+Kollmeyer, Phillip (2018),"Panasonic 18650PF Li-ion Battery Data", Mendeley Data, V1, doi: 10.17632/wykht8y7tg.1
